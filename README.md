@@ -3,6 +3,7 @@
 <h1 align="center">Duro</h1>
 <a href="[Github](https://github.com/quelloduro)"></a>
 ```
+
 📬 My social
 
 - Telegram : t.me/pythonskidder
@@ -20,4 +21,3 @@
 -  Pastes Site
 ```
 
-![Header](down.jpg)
