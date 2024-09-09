@@ -27,4 +27,8 @@
 </p>
 <br>
 
-![Footer](down.jpg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=quelloduro&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
+</p>
+
+![Footer](./2.png)
