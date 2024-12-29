@@ -20,5 +20,5 @@
 -  Ghostbin ✅
 -  Token gen: done but capmonster fucked the hcaptcha service :(
 
-```
+
 
