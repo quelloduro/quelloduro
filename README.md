@@ -1,22 +1,10 @@
 <h1 align="center">Duro</h1>
 <a href="[Github](https://github.com/quelloduro)"></a>
 
-
-📬 My social
-
-- Telegram : t.me/stronzogigante
-
-😤 Try to learn
-
-- Lua
-- JS
-- Css
-
-🚀 Projects
-
--  Gotleaked https://dsc.gg/gotleaked
--  Token gen: done but capmonster fucked the hcaptcha service :(
-
+<p align="center">
+  <a href="https://github.com/imvast">
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=imvast&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  </a>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Skills"/>
