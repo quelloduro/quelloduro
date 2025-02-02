@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/imvast">
-    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=imvast&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=quelloduro&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
   </a>
 
 <p align="center">
