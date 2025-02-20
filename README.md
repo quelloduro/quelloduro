@@ -2,10 +2,10 @@
 <a href="[Github](https://github.com/quelloduro)"></a>
 
 <p align="center">
-  <a href="https://github.com/imvast">
+  <a href="https://github.com/quelloduro">
     <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=quelloduro&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/imvast?tab=stars">
+  <a href="https://github.com/quelloduro?tab=stars">
     <img height="25" src="https://img.shields.io/github/stars/quelloduro?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </a>
 </p>
