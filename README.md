@@ -1,4 +1,4 @@
-<h1 align="center">Duro</h1>
+<h1 align="center">Sethy</h1>
 <a href="[Github](https://github.com/quelloduro)"></a>
 
 <p align="center">
