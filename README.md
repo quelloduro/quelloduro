@@ -13,6 +13,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="Skills"/>ù
+  <img src="https://skillicons.dev/icons?i=css" alt="Skills"/>
   <img src="https://skillicons.dev/icons?i=discord" alt="Skills"/>
 </p>
 
